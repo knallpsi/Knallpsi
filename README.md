@@ -35,6 +35,7 @@
 
 ### Game Engine & Low-Level
 <p align="left">
+  <img src="https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Vulkan-C41E3A?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
