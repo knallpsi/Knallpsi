@@ -54,8 +54,8 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nemessa&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=777777" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemessa&layout=compact&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=777777" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knallpsi&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=777777" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knallpsi&layout=compact&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=777777" />
 </div>
 
 <br>
